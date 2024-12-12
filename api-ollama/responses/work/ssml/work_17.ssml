@@ -1,0 +1,19 @@
+<speak>
+<prosody rate="slow">
+<audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+4 
+<audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+over
+<audio src="https://storage.googleapis.com/ssml-tones/pi-open.wav"/>
+pi 
+<audio src="https://storage.googleapis.com/ssml-tones/pi-close.wav"/>
+times
+<audio src="https://storage.googleapis.com/ssml-tones/sin-open.wav"/>
+sine 
+<audio src="https://storage.googleapis.com/ssml-tones/sin-close.wav"/>
+of <break time="1s"/> omega, times <break time="1s"/>, the
+<audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+frequency 
+<audio src="https://storage.googleapis.com/ssml-tones/frequency-close.wav"/>
+</prosody>
+</speak>

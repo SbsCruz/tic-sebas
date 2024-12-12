@@ -1,0 +1,8 @@
+<speak>
+  <prosody rate="slow">
+    square root of 
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+    x
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+  </prosody>
+</speak>

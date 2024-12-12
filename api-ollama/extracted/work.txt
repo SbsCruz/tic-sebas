@@ -1,0 +1,17 @@
+e^{j\theta} = cos(\theta)+jsen(\theta)
+    \label{euler}
+x(t) = Ae^{at}
+x(t) = |A|e^{j\theta} \cdot e^{(r+j\Omega_0)t}
+x(t) = |A|e^{[j\theta + (r+j\Omega_0)t]}
+x(t) = |A|e^{[j\theta+rt+j\Omega_0 t]}
+x(t) = |A|e^{[rt+j(\Omega_0 t+\theta)]}
+x(t) = |A|e^{rt}\cdot e^{j(\Omega_0 t +\theta)}
+x(t) = |A|e^{rt} [cos(\Omega_0 t +\theta)+jsen(\Omega_0 t +\theta)]
+Re\{x(t)\} = |A|e^{rt}cos(\Omega_0 t +\theta)
+    \label{Real}
+Im\{x(t)\} = |A|e^{rt}sen(\Omega_0 t +\theta)
+    \label{Ima}
+Y(t) = V_1cos(\omega_1 t) + V_2cos(\omega_2 t) + \dots + V_ncos(\omega_n t)
+Y(t) =  V_1e^{\omega_1 t} + V_2e^{\omega_2 t} + \dots + V_ne^{\omega_n t}
+x(t) = \sum^{\infty}_{k = -\infty} X_k e^{jk\Omega_0 t}
+    \label{FourierExp}

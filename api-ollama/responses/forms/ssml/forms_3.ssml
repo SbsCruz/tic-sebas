@@ -1,0 +1,12 @@
+<speak>
+  <prosody rate="slow">
+    x prime
+    <break time="1s"/>
+    equals
+    <break time="1s"/>
+    D times
+    <break time="1s"/>
+    x
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+  </prosody>
+</speak>

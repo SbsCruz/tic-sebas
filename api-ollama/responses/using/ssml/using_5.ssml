@@ -1,0 +1,21 @@
+<speak>
+  <prosody rate="slow"> 
+    begin matrix
+    <break time="1s"/>
+    left bracket 
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      <pause unit="ms" dur="1000"/> 1
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    <break time="1s"/>
+    comma 
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      2
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    <break time="1s"/>
+    right bracket 
+    <break time="1s"/>
+    end matrix
+  </prosody>
+</speak>

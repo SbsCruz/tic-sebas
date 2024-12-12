@@ -1,0 +1,27 @@
+<speak>
+  <prosody rate="slow">
+    D
+    <break time="1s"/>
+    equals 
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+      square root of 
+      <break time="1s"/>
+      <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+        1
+        minus 
+        <break time="1s"/>
+        <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+          square root of 
+          <break time="1s"/>
+          <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+            5
+            times 
+            <break time="1s"/>
+            x 
+            <break time="1s"/>
+          <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+        <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+      <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+  </prosody>
+</speak>

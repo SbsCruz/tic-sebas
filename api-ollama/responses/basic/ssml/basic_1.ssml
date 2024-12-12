@@ -1,0 +1,12 @@
+<speak>
+  <prosody rate="slow">
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      a
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    over
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      b
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+  </prosody>
+</speak>

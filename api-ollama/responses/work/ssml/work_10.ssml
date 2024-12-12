@@ -1,0 +1,18 @@
+<speak>
+  <prosody rate="slow">
+    Re <break time="1s"/> 
+    of x <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      the absolute value of
+      <break time="1s"/>
+      A <break time="1s"/>
+      <audio src="https://storage.googleapis.com/ssml-tones/e-open.wav"/> 
+        e to the power of r times t <break time="1s"/>
+        cos <break time="1s"/>
+        open parenthesis, 
+          Omega sub 0 <break time="1s"/>
+          times t plus theta close parenthesis
+      <audio src="https://storage.googleapis.com/ssml-tones/e-close.wav"/> 
+      <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+  </prosody>
+</speak>

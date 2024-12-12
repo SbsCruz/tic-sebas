@@ -1,0 +1,16 @@
+<speak>
+  <prosody rate="slow">
+    e to the power of j times theta equals
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      c open, o, s space, s of
+      <break time="1s"/>
+      theta 
+      <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+      plus j times 
+      <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      s space, e, n of
+      <break time="1s"/>
+      theta 
+      <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+  </prosody>
+</speak>

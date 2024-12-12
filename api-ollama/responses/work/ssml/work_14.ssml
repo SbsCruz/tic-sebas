@@ -1,0 +1,52 @@
+<speak>
+  <prosody rate="slow">
+    capital Y, 
+    <break time="1s"/> 
+    of t, 
+    <break time="1s"/> 
+    equals, 
+    <break time="1s"/> 
+    V sub one, 
+    <break time="1s"/> 
+    cosine, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+    open parenthesis, 
+    <break time="1s"/> 
+    omega sub one, 
+    <break time="1s"/> 
+    t, 
+    <break time="1s"/> 
+    close parenthesis, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    plus, 
+    <break time="1s"/> 
+    V sub two, 
+    <break time="1s"/> 
+    cosine, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+    open parenthesis, 
+    <break time="1s"/> 
+    omega sub two, 
+    <break time="1s"/> 
+    t, 
+    <break time="1s"/> 
+    close parenthesis, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    plus, 
+    <break time="1s"/> 
+    dots, 
+    <break time="1s"/> 
+    V sub n, 
+    <break time="1s"/> 
+    cosine, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+    open parenthesis, 
+    <break time="1s"/> 
+    omega sub n, 
+    <break time="1s"/> 
+    t, 
+    <break time="1s"/> 
+    close parenthesis, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+  </prosody>
+</speak>

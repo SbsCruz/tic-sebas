@@ -1,0 +1,26 @@
+<speak>
+  <prosody rate="slow">
+    absolute value of A 
+    <break time="1s"/>
+    e 
+    <break time="1s"/>
+    to the power of
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      r times t 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    <break time="1s"/>
+    times 
+    <break time="1s"/>
+    e to the power of 
+    <audio src="https://storage.googleapis.com/ssml-tones/j-open.wav"/>
+      j
+    <audio src="https://storage.googleapis.com/ssml-tones/j-close.wav"/>
+      times 
+    <break time="1s"/>
+    the sum of 
+    <break time="1s"/>
+    Omega 0 times t
+    <break time="1s"/>
+    plus theta
+  </prosody>
+</speak>

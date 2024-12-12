@@ -1,0 +1,13 @@
+<speak>
+  <prosody rate="slow">
+    absolute value of A 
+    <break time="1s"/>
+    e to the power of r times t 
+    <break time="1s"/>
+    open bracket 
+    <break time="1s"/>
+    cos of Omega 0 times t plus theta 
+    <break time="1s"/>
+    plus i times sine of Omega 0 times t plus theta close bracket
+  </prosody>
+</speak>

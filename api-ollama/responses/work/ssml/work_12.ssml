@@ -1,0 +1,17 @@
+<speak>
+  <prosody rate="slow"> 
+    Imaginary part of x of t <break time="1s"/> 
+    equals 
+    <audio src="https://storage.googleapis.com/ssml-tones/abs-open.wav"/>
+      absolute value
+      <audio src="https://storage.googleapis.com/ssml-tones/abs-close.wav"/>
+      A <break time="1s"/>
+    e to the power of rt <break time="1s"/> 
+    sine of 
+    <audio src="https://storage.googleapis.com/ssml-tones/sin-open.wav"/>
+      open Omega 0 t <break time="1s"/> 
+      plus theta <break time="1s"/> 
+    close
+    <audio src="https://storage.googleapis.com/ssml-tones/sin-close.wav"/>
+  </prosody>
+</speak>

@@ -1,0 +1,4 @@
+The equation is a row of three terms separated by ampersands. 
+The first term is a negative function of sine, with theta as its input. 
+The second term is the cosine function, also with theta as its input.
+The third term is zero.

@@ -1,0 +1,29 @@
+<speak>
+  <prosody rate="slow">
+    absolute value of 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+    A
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    times
+    <break time="1s"/>
+    e to the power of 
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+      j times
+      <audio src="https://storage.googleapis.com/ssml-tones/theta-open.wav"/>
+        theta
+      <audio src="https://storage.googleapis.com/ssml-tones/theta-close.wav"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/> 
+    <break time="1s"/>
+    times
+    <break time="1s"/>
+    e to the power of
+    <break time="1s"/>
+    open parenthesis, r plus j times
+    <audio src="https://storage.googleapis.com/ssml-tones/omega-open.wav"/>
+      Omega sub 0
+    <audio src="https://storage.googleapis.com/ssml-tones/omega-close.wav"/>
+    close parenthesis
+    <break time="1s"/>
+    times t
+  </prosody>
+</speak>

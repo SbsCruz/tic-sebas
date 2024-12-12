@@ -1,0 +1,1 @@
+The surface area integral of a vector is equal to a fraction with 1 in the numerator and the electric constant epsilon 0 in the denominator, and this fraction times the volume integral of charge density.

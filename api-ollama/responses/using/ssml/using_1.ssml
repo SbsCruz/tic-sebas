@@ -1,0 +1,17 @@
+<speak>
+  <prosody rate="slow">
+    integral sign
+    <break time="1s"/>
+    vec E dot d vec S
+    <break time="1s"/>
+    equals <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+    one over epsilon naught
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+    i triple integral e d V
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+  </prosody>
+</speak>

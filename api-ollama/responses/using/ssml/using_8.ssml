@@ -1,0 +1,13 @@
+<speak>
+  <prosody rate="slow">
+    zero 
+    <break time="1s"/>
+    times
+    <break time="1s"/>
+    zero
+    <break time="1s"/>
+    times
+    <break time="1s"/>
+    one
+  </prosody>
+</speak>

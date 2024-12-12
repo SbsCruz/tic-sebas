@@ -1,0 +1,1 @@
+A value that is being squared is equal to a sum. The square is the numerator and it consists of four terms. Each term is a product, the first part is called Lambda, it's subscript varies from 0 to 3 and the second part is an x with a superscript that also varies from 0 to 3.

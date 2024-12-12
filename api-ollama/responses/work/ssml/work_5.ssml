@@ -1,0 +1,20 @@
+<speak>
+  <prosody rate="slow">
+    absolute value of A, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      e, 
+      <break time="1s"/>
+      raised to the power of 
+      <break time="1s"/>
+      j times theta plus 
+      <break time="1s"/>
+      r, 
+      <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+        j times omega 0, 
+        <audio src="https://storage.googleapis.com/ssml-tones/j-wav"/> 
+        times t
+        <break time="1s"/>
+    </audio>
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+  </prosody>
+</speak>

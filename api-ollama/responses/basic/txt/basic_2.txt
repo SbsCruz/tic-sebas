@@ -1,0 +1,1 @@
+The equation is a mathematical expression that involves finding the square root of a value called "x". The symbol √ represents the operation of taking the square root. Imagine a number line where x is a point on it. This expression asks: what number, when multiplied by itself, gives us the value of x?

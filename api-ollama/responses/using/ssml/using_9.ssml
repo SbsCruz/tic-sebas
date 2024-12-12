@@ -1,0 +1,15 @@
+<speak>
+  <prosody rate="slow">
+    big matrix of
+    <break time="1s"/>
+    open bracket
+    <break time="1s"/>
+    2 times
+    <break time="1s"/>
+    s
+    <break time="1s"/>
+    close bracket
+    <break time="1s"/>
+    close matrix
+  </prosody>
+</speak>

@@ -1,0 +1,1 @@
+The left-hand side of the equation is equal to a fraction. The numerator is D times x, and the denominator is the square root of 1 minus x squared.

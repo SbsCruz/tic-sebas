@@ -1,0 +1,23 @@
+<speak>
+  <prosody rate="slow">
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      x prime
+      <break time="1s"/>
+    to the power of
+    <break time="1s"/>
+      nu
+    <break time="1s"/>
+    equals
+    <break time="1s"/>
+    sum from
+    <break time="1s"/>
+    mu equal 0 to 3 of
+    <break time="1s"/>
+    capital lambda to the power of nu sub script mu
+    <break time="1s"/>
+      x to the power of
+    <break time="1s"/>
+      mu
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+  </prosody>
+</speak>
