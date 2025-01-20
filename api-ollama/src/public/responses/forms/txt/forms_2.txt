@@ -1,0 +1,2 @@
+The right-hand side of the equals sign is a fraction. 
+Its numerator is mc squared and its denominator has a square root of 1 minus v squared divided by c squared.

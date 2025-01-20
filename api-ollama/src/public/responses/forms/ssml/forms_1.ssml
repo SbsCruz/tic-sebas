@@ -1,0 +1,21 @@
+<speak>
+  <prosody rate="slow">
+    integral over
+    <break time="1s"/>
+    surface
+    <break time="1s"/>
+    of vector E, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+    d vector S, 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    equals 
+    <break time="1s"/>
+    one over epsilon zero, 
+    <break time="1s"/>
+    integral over
+    <break time="1s"/>
+    volume of
+    <break time="1s"/>
+    e times dV
+  </prosody>
+</speak>

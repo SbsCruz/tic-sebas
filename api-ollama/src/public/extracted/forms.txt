@@ -1,0 +1,9 @@
+\oint \vec{E} \cdot d\vec{S} = \frac{1}{\epsilon_0} \iiint edV
+E = \frac{mc^2}{\sqrt{1 - \frac{v^2}{c^2}}}
+x' = Dx
+x'^\nu = \Lambda^\nu_\mu x^\mu
+x'^\nu = \sum_{\mu=0}^3 \Lambda^\nu_\mu x^\mu
+\sqrt{x^2 + 2x - 3}
+x = \frac{\sqrt{19i} + 3}{2}
+\cos^2(x + 3) + \sin^2(x)
+x = 2 * (\sqrt{25\pi} + i)

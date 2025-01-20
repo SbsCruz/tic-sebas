@@ -1,0 +1,31 @@
+<speak>
+  <prosody rate="slow">
+    x prime, 
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+      to the power of 
+      <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      nu
+    <audio src="httpselves storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    equals, 
+    <break time="1s"/>
+    Lambda, 
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+      to the power of 
+      <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      nu
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+      sub, 
+      <break time="1s"/>
+    mu
+    <break time="1s"/>
+    times, 
+    <break time="1s"/>
+    x, 
+    <break time="1s"/>
+    to the power of 
+    <break time="1s"/>
+    mu
+  </prosody>
+</speak>

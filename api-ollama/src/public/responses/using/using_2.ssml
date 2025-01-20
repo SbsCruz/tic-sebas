@@ -1,0 +1,31 @@
+<speak>
+    <prosody rate="slow">
+      E
+      <break time="1s"/>
+      equals
+      <break time="1s"/>
+      <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      m
+      <break time="1s"/>    
+      c squared 
+      <break time="1s"/>
+      <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+      over
+      <break time="1s"/>
+      <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+        square root of
+        <break time="1s"/>
+        one minus 
+        <break time="1s"/>
+        <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+          v squared 
+        <break time="1s"/>
+        <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+        over 
+        <break time="1s"/>
+        c squared
+      <break time="1s"/>
+      <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>   
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    </prosody>
+</speak>

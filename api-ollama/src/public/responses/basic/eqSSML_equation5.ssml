@@ -1,0 +1,7 @@
+<speak>
+  <mark name="equation5"/>
+    <mark name="comp_5_0"/><prosody rate="slow"> Square root of <break time="1s"/></prosody>
+    <mark name="comp_5_2"/>a
+    <mark name="comp_5_fracLine"/><prosody rate="slow">over <break time="1s"/></prosody>
+    <mark name="comp_5_3"/>b
+</speak>

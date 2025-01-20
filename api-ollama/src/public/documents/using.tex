@@ -1,0 +1,65 @@
+\documentclass[10pt,twocolumn]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{booktabs}
+
+\setlength{\columnsep}{20pt} % Espacio entre columnas
+
+\begin{document}
+
+\title{Testing \LaTeX\ Accessibility}
+\author{Zaphod Beeblebrox \\
+Sirius Cybernetics Corporation \\
+\textit{(Dated: June 3, 2023)}}
+\date{}
+
+\maketitle
+
+\section{Introduction}
+
+When GPT-4 first came out, it immediately gained the attention of scientists~\cite{ref1}. Here we test if it can be used to create WCAG-compliant HTML based on \LaTeX\ source code.
+
+\section{Some Useful Formulas}
+
+When formulating what is called Special Relativity today, Einstein started with the Maxwell equations, like this one~\cite{ref3}:
+\begin{equation}
+\oint \vec{E} \cdot d\vec{S} = \frac{1}{\epsilon_0} \iiint edV
+\end{equation}
+
+Table I lists some of the most commonly used relativistic equations~\cite{ref3}.
+
+And then there is one of the most famous formulas of physics~\cite{ref4}:
+\begin{equation}
+E = \frac{mc^2}{\sqrt{1 - \frac{v^2}{c^2}}}
+\end{equation}
+
+Of course, all of these formulas are merely consequences of the Lorentz transformation between two moving frames of reference. Consider a rotation matrix about the $z$-axis in three-dimensional space,
+\begin{equation}
+x' = Dx
+\end{equation}
+\begin{equation}
+D = 
+\begin{bmatrix}
+\cos \theta & \sin \theta & 0 \\
+-\sin \theta & \cos \theta & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+\end{equation}
+
+The Lorentz Transformation is a four-dimensional rotation with a matrix $\Lambda^\nu_\mu$:
+\begin{equation}
+x'^\nu = \Lambda^\nu_\mu x^\mu
+\end{equation}
+
+where we imply the summation convention,
+\begin{equation}
+x'^\nu = \sum_{\mu=0}^3 \Lambda^\nu_\mu x^\mu
+\end{equation}
+
+\section{Other Remarks}
+
+One could say a lot more about Special Relativity, but don't panic~\cite{ref5}! At the very least, remember equation~(2).
+
+\end{document}

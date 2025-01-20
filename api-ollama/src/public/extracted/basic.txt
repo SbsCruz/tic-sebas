@@ -1,0 +1,6 @@
+\frac{a}{b}
+\sqrt{x}
+a + b
+a - b
+\sqrt{\frac{a}{b}}
+x = a^b

@@ -1,0 +1,18 @@
+<speak>
+    <prosody rate="slow">
+        cos 
+        <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+        squared of
+        <break time="1s"/>
+        x plus 3
+        <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/> 
+        plus 
+        <break time="1s"/>
+        sin 
+        <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+        squared of
+        <break time="1s"/>
+        x
+        <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    </prosody>
+</speak>

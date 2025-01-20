@@ -1,0 +1,19 @@
+<speak>
+  <prosody rate="slow">
+    d equals 
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      one
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+    over
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      two plus 
+      <break time="1s"/>
+      x
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    over
+    <break time="1s"/>
+    five
+  </prosody>
+</speak>

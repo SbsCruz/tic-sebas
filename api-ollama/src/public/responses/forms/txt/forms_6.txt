@@ -1,0 +1,1 @@
+The square root of x squared plus two times x minus three.

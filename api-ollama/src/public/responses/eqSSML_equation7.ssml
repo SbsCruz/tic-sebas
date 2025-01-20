@@ -1,0 +1,73 @@
+<speak>
+  <prosody rate="slow">
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      a 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    over
+    <break time="1s"/>
+    b
+  </prosody>
+
+
+
+  <prosody rate="slow">
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+      square root of
+    <break time="1s"/>
+      x
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-close.wav"/>
+  </prosody>
+
+
+
+  <prosody rate="slow">
+    a 
+    <break time="1s"/>
+    plus 
+    <break time="1s"/>
+    b
+  </prosody>
+
+
+
+  <prosody rate="slow">
+    a 
+    <break time="1s"/>
+    minus 
+    <break time="1s"/>
+    b
+  </prosody>
+
+
+
+  <mark name="equation-4"/> 
+  <prosody rate="slow">
+    <audio src="https://storage.googleapis.com/ssml-tones/sqrt-open.wav"/>
+      square root of
+    <break time="1s"/>
+      <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+        a 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+    over
+    <break time="1s"/>
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
+      b 
+    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
+  </prosody>
+
+
+
+  <mark name="equation-5"/> 
+  <prosody rate="slow">
+    x
+    <break time="1s"/>
+    equals 
+    <break time="1s"/>
+    a 
+    <break time="1s"/>
+    to the power of 
+    <break time="1s"/>
+    b
+  </prosody>
+
+</speak>

@@ -1,0 +1,83 @@
+Las señales de variable continua son señales con las que, sin darnos cuenta, estamos ya familiarizados, tales como la voz, la música que viene dispositivos como radios, etc. \cite{chaparro_signals_2010}
+
+La pregunta que nos surge cuando experimentamos o trabjamos con estas señales es como las capturamos, representamos y/o modificamos.
+
+Para realizar lo mencionado en el párrafo anterior, podemos usar la \textbf{variable compleja} para representar, modificar y analizar este tipo de señales.
+
+La representación de estas señales se puede realizar mediante la fórmula de Euler:
+\begin{equation}
+    e^{j\theta} = cos(\theta)+jsen(\theta)
+    \label{euler}
+\end{equation}
+
+\subsection{Ejemplo de representación 1.}
+Aplicando  \ref{euler} a una señal de forma:
+\begin{equation*}
+    x(t) = Ae^{at}
+\end{equation*}
+donde:\\
+$A = |A|e^{j\theta}$,\\
+$a = r+j\Omega_0$,
+entonces obtendremos:
+
+\begin{equation*}
+    x(t) = |A|e^{j\theta} \cdot e^{(r+j\Omega_0)t}
+\end{equation*}
+\begin{equation*}
+    x(t) = |A|e^{[j\theta + (r+j\Omega_0)t]}
+\end{equation*}
+\begin{equation*}
+    x(t) = |A|e^{[j\theta+rt+j\Omega_0 t]}
+\end{equation*}
+\begin{equation*}
+    x(t) = |A|e^{[rt+j(\Omega_0 t+\theta)]}
+\end{equation*}
+\begin{equation*}
+    x(t) = |A|e^{rt}\cdot e^{j(\Omega_0 t +\theta)}
+\end{equation*}
+
+\begin{equation}
+    x(t) = |A|e^{rt} [cos(\Omega_0 t +\theta)+jsen(\Omega_0 t +\theta)]
+\end{equation}
+Donde podremos notar que tenemos una frecuencia angular $\Omega_0$ con una fase $\theta$, que dan forma a nuestra señal de variable continua. \cite{tarrio_ondas_nodate}.
+Además, obtendremos las partes reales e imaginarias de la señal:
+
+\begin{equation}
+    Re\{x(t)\} = |A|e^{rt}cos(\Omega_0 t +\theta)
+    \label{Real}
+\end{equation}
+\begin{equation}
+    Im\{x(t)\} = |A|e^{rt}sen(\Omega_0 t +\theta)
+    \label{Ima}
+\end{equation}
+
+
+Dado que esta representación hace uso de lo snúmeros comlejos, es sensato pensar que para operar entre estas señales debamos utilizar las reglas de operación de los números complejos.
+
+\subsection{Ejemplo de representación 2}
+Sea una señal
+
+$$Y(t) = V_1cos(\omega_1 t) + V_2cos(\omega_2 t) + \dots + V_ncos(\omega_n t)$$
+
+Si la representamos mediante la representación de exponenciales complejas, obtendremos:
+$$Y(t) =  V_1e^{\omega_1 t} + V_2e^{\omega_2 t} + \dots + V_ne^{\omega_n t}$$
+La cual es una forma más sencilla de representar una señal con variable continua.
+
+\subsection{Representación de una señal mediante las series de Fourier}
+
+Una serie de Fourier es una representación de una señal $x(t)$ en términos de exponenciales complejas\cite{moya_procesamiento_nodate}. Se representa mediante una suma infinita:
+
+\begin{equation}
+    x(t) = \sum^{\infty}_{k = -\infty} X_k e^{jk\Omega_0 t}
+    \label{FourierExp}
+\end{equation}
+donde:
+$\Omega_o = \frac{2\pi}{T_o}$
+
+
+
+
+
+
+
+
