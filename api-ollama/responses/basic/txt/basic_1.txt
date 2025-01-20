@@ -1,1 +1,0 @@
-A fraction is being described. It has two parts: a numerator and a denominator. The numerator is "a" and it's above another line. Beneath this line is another part called the denominator, which is "b".

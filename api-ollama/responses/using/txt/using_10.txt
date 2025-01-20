@@ -1,1 +1,0 @@
-The equation is that a quantity, which has its own variable and exponent, is equal to another quantity. This quantity is raised to an unknown power, represented by the Greek letter lambda with an index of mu, acting on x which has its own variable and also an index of mu.

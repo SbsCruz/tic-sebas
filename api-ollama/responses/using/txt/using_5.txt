@@ -1,1 +1,0 @@
-The equation is a matrix that starts with a left square bracket and contains rows of elements separated by commas, enclosed by a right square bracket.

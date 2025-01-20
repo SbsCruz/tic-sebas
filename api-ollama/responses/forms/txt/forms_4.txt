@@ -1,5 +1,0 @@
-the right-hand side of the equation is a number that is being raised to a power, 
-the base of this power is the product of two terms: 
-  the first term is a fraction with the numerator equal to ... (a different Greek letter) and the denominator equal to ... (another Greek letter),  
-  the second term is just another Greek letter
-this entire product has been raised to a certain power.

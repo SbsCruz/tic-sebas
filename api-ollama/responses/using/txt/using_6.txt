@@ -1,4 +1,0 @@
-The equation is equal to a matrix with three rows and one column, 
-the first element is the cosine of theta, 
-the second element is the sine of theta, 
-the third element is zero.

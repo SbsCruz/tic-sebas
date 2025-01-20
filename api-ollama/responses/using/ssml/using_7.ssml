@@ -1,9 +1,0 @@
-<speak>
-  <prosody rate="slow"> 
-    negative sin of theta <break time="1s"/>
-    comma <break time="1s"/>
-    cos of theta <break time="1s"/>
-    comma <break time="1s"/>
-    0
-  </prosody>
-</speak>

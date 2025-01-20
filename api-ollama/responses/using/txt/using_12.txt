@@ -1,5 +1,0 @@
-the equation is that is equal to a fraction, 
-the numerator of this fraction is 1, 
-the denominator of this fraction is another fraction, 
-the numerator of this fraction is x plus 2,
-the denominator of this fraction is 5.

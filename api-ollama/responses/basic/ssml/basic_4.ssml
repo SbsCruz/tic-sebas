@@ -1,8 +1,0 @@
-<speak>
-  <prosody rate="slow">
-    a <break time="1s"/> minus <break time="1s"/>
-    <audio src="https://storage.googleapis.com/ssml-tones/numerator-open.wav"/>
-      b <break time="1s"/>
-    <audio src="https://storage.googleapis.com/ssml-tones/numerator-close.wav"/>
-  </prosody>
-</speak>
