@@ -1,6 +1,0 @@
-The equation is a matrix of three numbers that are separated by ampersands. 
-It consists of three rows: 
-the first row has two zeros,
-the second row also has two zeros and one number, 
-and the third row has the number one.
-There are no operations or signs in this equation.

@@ -1,1 +1,0 @@
-This is equal to a sum that starts from 0 and goes up to 3, the summand is a product of two things, Lambda superscript nu mu and x to the power of mu.

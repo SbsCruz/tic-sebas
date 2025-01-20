@@ -1,3 +1,0 @@
-x equals a product of two terms. 
-The first term is a constant that is being multiplied by itself (itself being a certain value). The constant is 2.
-The second term has a square root, the thing inside it is 25 times pi, and also includes an imaginary unit i

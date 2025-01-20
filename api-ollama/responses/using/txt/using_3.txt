@@ -1,1 +1,0 @@
-the variable x prime is equal to a product of D and x.

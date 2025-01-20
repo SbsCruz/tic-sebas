@@ -1,3 +1,0 @@
-The equation is: "One quantity subtracted from another quantity." 
-
-Imagine two boxes, one containing a certain number of objects (let's call it 'a'), and another box with a different number of objects (let's call it 'b'). To find the result, we take all the objects from the first box (a) and remove the objects from the second box (b). The remaining objects in the first box would be the answer.
