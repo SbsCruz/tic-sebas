@@ -14,7 +14,7 @@ def leer_ecuaciones_desde_archivo(ruta_archivo):
 
 # Leer las ecuaciones desde el archivo
 input_file = 'forms'
-ruta_archivo = f'api-ollama/extracted/{input_file}.txt' # Cambia esto a la ruta de tu archivo .txt
+ruta_archivo = f'api-ollama/src/public/extracted/{input_file}.txt' # Cambia esto a la ruta de tu archivo .txt
 ecuaciones = leer_ecuaciones_desde_archivo(ruta_archivo)
 
 # Construir la lista de mensajes para cada ecuación en el for_ssml
