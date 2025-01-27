@@ -1,4 +1,3 @@
-# cambiar a inglés
 reglas_ssml = [
   {
     "role": "user",
